@@ -7,13 +7,13 @@
 	<parent>
 		<groupId>de.alpharogroup</groupId>
 		<artifactId>mvn-java-parent</artifactId>
-		<version>2.15.0</version>
+		<version>2.22.0</version>
 		<relativePath></relativePath>
 	</parent>
 
 	<artifactId>mvn-wicket-parent</artifactId>
 	<packaging>pom</packaging>
-	<version>7.3.0</version>
+	<version>7.4.1</version>
 
 	<name>${project.artifactId}</name>
 	
@@ -113,7 +113,7 @@
 		<randomizer.version>${mystic-crypt.version}</randomizer.version>
 		<auth-security.version>${mystic-crypt.version}</auth-security.version>
 		<!-- RESOURCEBUNDLE-CORE version -->
-		<resourcebundle-inspector.version>2.10.0</resourcebundle-inspector.version>
+		<resourcebundle-inspector.version>2.11.0</resourcebundle-inspector.version>
 		<!-- EXTERNAL LIBRARIES versions -->
 		<recaptcha4j.version>0.0.7</recaptcha4j.version>
 		<joda-time.version>2.9.4</joda-time.version>
