@@ -25,7 +25,7 @@ Add as parent project in the `pom.xml` file:
 	<parent>
 		<groupId>de.alpharogroup</groupId>
 		<artifactId>mvn-wicket-parent</artifactId>
-		<version>7.4.0</version>
+		<version>7.3.1</version>
 		<relativePath></relativePath>
 	</parent>	
 
