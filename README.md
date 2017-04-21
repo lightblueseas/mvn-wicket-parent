@@ -9,7 +9,10 @@ General parent project for wicket projects.
 
 ## License
 
-The source code comes under the liberal Apache License V2.0, making mvn-wicket-parent great for all types of ui swing applications.
+The source code comes under the liberal Apache License V2.0, making mvn-wicket-parent great for all types of ui wicket applications.
+
+# Build status
+[![Build Status](https://travis-ci.org/lightblueseas/mvn-wicket-parent.svg?branch=master)](https://travis-ci.org/lightblueseas/mvn-wicket-parent)
 
 ## Maven Central
 
