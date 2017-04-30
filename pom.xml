@@ -93,7 +93,7 @@
 		<wicketstuff.version>[6.0.0,6.99)</wicketstuff.version>
 		<!-- TODO change to 7.0.0 -->
 		<wiquery-core.version>6.13.0</wiquery-core.version>
-		<wicket-js-addons.version>6.25.0</wicket-js-addons.version>
+		<wicket-js-addons.version>6.25.2</wicket-js-addons.version>
 		<!-- SERVLET-API version -->
 		<servlet-api.version>3.1.0</servlet-api.version>
 		<!-- EXTENSIONS LIB versions -->
