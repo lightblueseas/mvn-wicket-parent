@@ -27,7 +27,10 @@ Add as parent project in the `pom.xml` file:
 		<artifactId>mvn-wicket-parent</artifactId>
 		<version>7.3.1</version>
 		<relativePath></relativePath>
-	</parent>	
+	</parent>
+	
+## Open Issues
+[![Open Issues](https://img.shields.io/github/issues/lightblueseas/mvn-wicket-parent.svg?style=flat)](https://github.com/lightblueseas/mvn-wicket-parent/issues) 	
 
 ## Want to Help and improve it? ###
 
