@@ -38,7 +38,7 @@ The source code for mvn-wicket-parent are on GitHub. Please feel free to fork an
 
 Create your own fork of [lightblueseas/mvn-wicket-parent/fork](https://github.com/lightblueseas/mvn-wicket-parent/fork)
 
-To share your changes, [submit a pull request](https://github.com/lightblueseas/mvn-wicket-parent/pull/new/master).
+To share your changes, [submit a pull request](https://github.com/lightblueseas/mvn-wicket-parent/pull/new/develop).
 
 ## Contacting the Developers
 
