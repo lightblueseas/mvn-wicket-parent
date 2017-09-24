@@ -102,7 +102,7 @@
 		<gen-tree.version>4.10.0</gen-tree.version>
 		<jcommons-lang.version>4.19.0</jcommons-lang.version>
 		<net-extensions.version>4.12.0</net-extensions.version>
-		<silly-collections.version>4.15.0</silly-collections.version>
+		<silly-collections.version>4.18.0</silly-collections.version>
 		<swing-components.version>4.18.0</swing-components.version>
 		<test-objects.version>4.16.0</test-objects.version>
 		<vintage-time.version>4.11.0</vintage-time.version>
