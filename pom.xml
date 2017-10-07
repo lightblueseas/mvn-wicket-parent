@@ -98,9 +98,9 @@
 		<servlet-api.version>3.1.0</servlet-api.version>
 		<!-- EXTENSIONS LIB versions -->
 		<email-tails.version>4.15.0</email-tails.version>
-		<file-worker.version>4.16.0</file-worker.version>
+		<file-worker.version>4.16.1</file-worker.version>
 		<gen-tree.version>4.10.0</gen-tree.version>
-		<jcommons-lang.version>4.22.0</jcommons-lang.version>
+		<jcommons-lang.version>4.23.0</jcommons-lang.version>
 		<net-extensions.version>4.12.0</net-extensions.version>
 		<silly-collections.version>4.18.0</silly-collections.version>
 		<swing-components.version>4.18.0</swing-components.version>
