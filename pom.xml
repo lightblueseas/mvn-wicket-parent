@@ -116,7 +116,7 @@
 		<joda-time.version>2.10</joda-time.version>
 		<!-- APACHE COMMONS LIBRARIES versions -->
 		<commons-beanutils.version>1.9.3</commons-beanutils.version>
-		<commons-collections4.version>4.1</commons-collections4.version>
+		<commons-collections4.version>4.2</commons-collections4.version>
 		<guava.version>26.0-jre</guava.version>
 		<commons-lang3.version>3.7</commons-lang3.version>
 	</properties>
