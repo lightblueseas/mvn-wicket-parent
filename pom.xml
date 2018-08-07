@@ -13,7 +13,7 @@
 
 	<artifactId>mvn-wicket-parent</artifactId>
 	<packaging>pom</packaging>
-	<version>7.8.0-SNAPSHOT</version>
+	<version>7.8.0</version>
 
 	<name>${project.artifactId}</name>
 	
@@ -84,11 +84,11 @@
 	
 	<properties>
 		<!-- WICKET version -->
-		<wicket.version>7.7.0</wicket.version>
+		<wicket.version>7.8.0</wicket.version>
 		<!-- WICKETSTUFF versions -->
-		<wicketstuff.version>7.7.0</wicketstuff.version>
+		<wicketstuff.version>7.8.0</wicketstuff.version>
 		<!-- WICKET-JS-ADDONS version -->
-		<wicket-js-addons.version>7.7.0</wicket-js-addons.version>
+		<wicket-js-addons.version>7.8.0</wicket-js-addons.version>
 		<!-- TODO change to 7.0.0 -->
 		<wiquery-core.version>6.13.0</wiquery-core.version>
 		<!-- SERVLET-API version -->
